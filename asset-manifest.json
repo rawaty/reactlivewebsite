@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/reactlivewebsite/static/css/main.a95aa9c8.chunk.css",
+    "main.js": "/reactlivewebsite/static/js/main.3a2f1f6f.chunk.js",
+    "main.js.map": "/reactlivewebsite/static/js/main.3a2f1f6f.chunk.js.map",
+    "runtime-main.js": "/reactlivewebsite/static/js/runtime-main.2c426947.js",
+    "runtime-main.js.map": "/reactlivewebsite/static/js/runtime-main.2c426947.js.map",
+    "static/css/2.1556235f.chunk.css": "/reactlivewebsite/static/css/2.1556235f.chunk.css",
+    "static/js/2.13e52ddc.chunk.js": "/reactlivewebsite/static/js/2.13e52ddc.chunk.js",
+    "static/js/2.13e52ddc.chunk.js.map": "/reactlivewebsite/static/js/2.13e52ddc.chunk.js.map",
+    "index.html": "/reactlivewebsite/index.html",
+    "static/css/2.1556235f.chunk.css.map": "/reactlivewebsite/static/css/2.1556235f.chunk.css.map",
+    "static/css/main.a95aa9c8.chunk.css.map": "/reactlivewebsite/static/css/main.a95aa9c8.chunk.css.map",
+    "static/js/2.13e52ddc.chunk.js.LICENSE.txt": "/reactlivewebsite/static/js/2.13e52ddc.chunk.js.LICENSE.txt",
+    "static/media/Homepg.css": "/reactlivewebsite/static/media/img2.672de79b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2c426947.js",
+    "static/css/2.1556235f.chunk.css",
+    "static/js/2.13e52ddc.chunk.js",
+    "static/css/main.a95aa9c8.chunk.css",
+    "static/js/main.3a2f1f6f.chunk.js"
+  ]
+}

@@ -1,0 +1,51 @@
+const Menu=[
+    {
+        id:1,
+        image:"images/dom.jpg",
+        name:"Dom",
+        category:"management",
+        fees:"₹5,00,000",
+        description:'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry',
+    },
+    {
+        id:2,
+        image:"images/emilio.jpg",
+        name:"Emilio",
+        category:"engineering",
+        fees:"₹5,50,000",
+        description:'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry',
+    },
+    {
+        id:3,
+        image:"images/melisaa.jpg",
+        name:"Melisaa",
+        category:"commerce",
+        fees:"₹5,00,000",
+        description:'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry',
+    },
+    {
+        id:4,
+        image:"images/moran.jpg",
+        name:"Moran",
+        category:"medical",
+        fees:"₹1500000",
+        description:'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry',
+    },
+    {
+        id:5,
+        image:"images/ruijia.jpg",
+        name:"Ruijia",
+        category:"law",
+        fees:"₹500000",
+        description:'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry',
+    },
+    {
+        id:6,
+        image:"images/ryan.jpg",
+        name:"Ryan",
+        category:"management",
+        fees:"₹600000",
+        description:'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry',
+    },
+]
+export default Menu;
